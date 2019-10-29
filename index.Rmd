@@ -10,3 +10,7 @@ output:
 #  Uma's Professional Experience 
 
 You can learn a lot more about me [here](aboutme.html)
+
+# Feel free to connect with me on [linkedin](https://www.linkedin.com/in/uma-palaniappan/)
+
+# Check out some other projects that I've been working on my [github](https://github.com/unp2000/)
