@@ -11,4 +11,6 @@ output:
 
 You can learn a lot more about me [here](aboutme.html)
 
+My name is Uma and I make websites that are cool.
 
+I was born and raised in sunny Fremont, CA and now live in Manhattan, NY where I'm studying Public Health at the Mailman School of Public Health at Columbia University. 
