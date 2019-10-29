@@ -1,5 +1,5 @@
 ---
-title: "Uma Palaniappan's Wesbite "
+title: "Uma Palaniappan's Website "
 output: 
   html_document:
     toc: true
@@ -9,3 +9,5 @@ output:
 
 
 My name is Uma and I make websites that are cool! 
+
+I am from sunny California! 
