@@ -11,12 +11,4 @@ output:
 
 You can learn a lot more about me [here](aboutme.html)
 
-# LinkedIn
-Feel free to connect with me on [linkedin](https://www.linkedin.com/in/uma-palaniappan/)
-
-# Github
-Check out some other projects that I've been working on my [github](https://github.com/unp2000/)
-
-# Email 
-Send me a note at my [email](unp2000@cumc.columbia.edu)
 
