@@ -1,5 +1,5 @@
 ---
-title: "Uma Palaniappan's Website "
+title: "Academic and Professional Experience"
 output: 
   html_document:
     toc: true
@@ -8,7 +8,47 @@ output:
 ---
 
 
-My name is Uma and I make websites that are cool.
+# Education: 
 
-I was born and raised in sunny Fremont, CA and now live in Manhattan, NY where I'm studying Public Health at the Mailman School of Public Health at Columbia University. 
+**Columbia University Mailman School of Public Health** 
+
+MPH in Epidemiology 
+
+New York, NY 
+
+Candidate for Graduation: May 2020 
+
+September 2018- Present 
+
+
+
+
+
+
+
+**Santa Clara University**
+
+Bachelor of Science in Public Health Science and Psychology
+
+Santa Clara, CA 
+
+Minors: Biology and Psychobiology
+
+September 2013 - May 2017
+
+# Experience: 
+
+**The Janssen Pharmaceutical Companies of Johnson & Johnson**
+
+*Global Market Access Intern*
+
+Raritan, NJ, June 2019 – August 2019 
+
+●	Lead longitudinal qualitative analysis for the Patient Reported Outcomes team for FDA approved drugs with PRO label language and provided recommendations to inform company strategy 
+
+●	Adapted global market access tools for Neuroscience breakthrough therapy for Major Depressive Disorder, Spravato, and incorporated internal stakeholder feedback from Global, Regional, and Local markets
+
+
+
+
 
