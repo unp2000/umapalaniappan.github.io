@@ -9,4 +9,4 @@ output:
 
 #  Uma's Professional Experience 
 
-You can learn more about me [here](aboutme.html)
+You can learn a lot more about me [here](aboutme.html)
