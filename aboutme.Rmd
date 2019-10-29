@@ -9,9 +9,7 @@ output:
 
 $~$
 
-# Education: 
-
-$~$ 
+# Education
 
 **Columbia University Mailman School of Public Health** 
 
@@ -33,9 +31,7 @@ Santa Clara, CA, September 2013 - May 2017
 
 $~$ 
 
-# Experience: 
-
-$~$ 
+# Experience 
 
 **The Janssen Pharmaceutical Companies of Johnson & Johnson**
 
@@ -133,7 +129,7 @@ Santa Clara, CA, January 2014- January 2017
 
 $~$ 
 
-# Leadership: 
+# Leadership
 
 **Santa Clara University Office of Undergraduate Admissions**
 
@@ -147,9 +143,25 @@ Santa Clara, CA, October 2013 - June 2017
 
 ●	Maintained relationships with 75 organizations located over 500-mile radius to advocate higher education to underrepresented high school students to the university
 
+$~$
 
+# Skills
 
+● Microsoft Suite (Access)
 
+● SAS 
 
+● STATA 
+
+● R 
+
+● SQL 
+
+$~$ 
+
+# Languages 
+● English (native fluency)
+
+● Tamil (native fluency)
 
 
