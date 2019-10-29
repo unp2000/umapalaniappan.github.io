@@ -8,4 +8,4 @@ output:
 ---
 
 
-My name is Uma and I make websites!! 
+My name is Uma and I make websites that are cool! 
