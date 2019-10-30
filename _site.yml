@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "About"
       href: aboutme.html
-    - text: "Dashboard"
+    - text: "Plotly"
       href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<unp2000@cumc.columbia.edu>
